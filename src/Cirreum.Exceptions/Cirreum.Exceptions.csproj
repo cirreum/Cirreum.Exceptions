@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<AssemblyName>Cirreum.Exceptions</AssemblyName>
+		<RootNamespace>Cirreum</RootNamespace>
+		<Description>The Cirreum Application Exceptions libary</Description>
+		<PackageTags>cirreum,exceptions</PackageTags>
+		<IsAotCompatible>true</IsAotCompatible>
+	</PropertyGroup>
+	
+</Project>
